@@ -1,0 +1,65 @@
+{
+    "ParkingAgentBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-499968.onnx",
+                "reward": 5.173622604469226,
+                "creation_time": 1740470810.0768807,
+                "auxillary_file_paths": [
+                    "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-499968.pt"
+                ]
+            },
+            {
+                "steps": 999994,
+                "file_path": "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-999994.onnx",
+                "reward": 2.0130161072593182,
+                "creation_time": 1740479580.9534922,
+                "auxillary_file_paths": [
+                    "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-999994.pt"
+                ]
+            },
+            {
+                "steps": 1499988,
+                "file_path": "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-1499988.onnx",
+                "reward": 1.6098164916038513,
+                "creation_time": 1740488749.703337,
+                "auxillary_file_paths": [
+                    "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-1499988.pt"
+                ]
+            },
+            {
+                "steps": 1999952,
+                "file_path": "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-1999952.onnx",
+                "reward": 4.728326079502169,
+                "creation_time": 1740497729.1470923,
+                "auxillary_file_paths": [
+                    "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-1999952.pt"
+                ]
+            },
+            {
+                "steps": 2452473,
+                "file_path": "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-2452473.onnx",
+                "reward": 5.107746017666964,
+                "creation_time": 1740506001.658192,
+                "auxillary_file_paths": [
+                    "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-2452473.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2452473,
+            "file_path": "results\\parking-demo6\\ParkingAgentBehavior.onnx",
+            "reward": 5.107746017666964,
+            "creation_time": 1740506001.658192,
+            "auxillary_file_paths": [
+                "results\\parking-demo6\\ParkingAgentBehavior\\ParkingAgentBehavior-2452473.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cpu"
+    }
+}
