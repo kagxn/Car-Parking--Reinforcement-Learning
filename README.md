@@ -1,6 +1,6 @@
 # Unity ML-Agents Parking Project
 
-This project is a simulation of an automated parking system built in Unity using ML-Agents. The agent is trained using reinforcement learning (PPO algorithm) to learn parking behaviors, including approaching the parking spot, avoiding obstacles, and ensuring all wheels and the car's center are correctly positioned within designated areas.
+This project is a simulation of an automated parking system built in Unity using ML-Agents. The agent is trained using reinforcement learning (PPO algorithm) to learn parking behaviors, including approaching the parking spot, avoiding obstacles, and ensuring all wheels and the car's center are correctly positioned within designated areas. ( https://www.youtube.com/watch?v=SemdTwKCZUI )
   
 ## Setup
 
@@ -55,5 +55,3 @@ After training is complete:
 - **Unity** for 3D simulation and environment creation.
 - **ML-Agents** for reinforcement learning.
 - **Python** for managing the training process and logging.
-
-https://www.youtube.com/watch?v=SemdTwKCZUI
